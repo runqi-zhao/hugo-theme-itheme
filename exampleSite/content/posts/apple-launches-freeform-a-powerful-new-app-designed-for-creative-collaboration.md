@@ -47,6 +47,12 @@ iPad Pro 上，无边记正在使用 FaceTime 通话协作功能。
 
 ![依托 FaceTime 和 iCloud 集成，无边记为协作而设计，帮助用户更轻松地邀请他人在画板上共同工作。](https://www.apple.com.cn/newsroom/images/product/apps/standard/Apple-Freeform-FaceTime_big.jpg.large_2x.jpg)
 
+添加latex公式
+
+$$
+latex
+$$
+
 ## 推出时间
 
 今日起，所有支持 iOS 16.2、iPad OS 16.2 或 macOS Ventura 13.1 的 iPhone、iPad 及 Mac 均可免费下载无边记。

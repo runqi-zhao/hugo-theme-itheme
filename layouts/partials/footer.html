@@ -1,3 +1,10 @@
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    TeX: { equationNumbers: { autoNumber: "AMS" } }
+  });
+  </script>
+  <script src="/js/math-code.js"></script>
+  <script async src="//cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <div class="footer-main {{ if eq .dark true}} footer-dark {{ end }}">
   <div class="content-body footer-wraper">
     <div class="footer-box">
@@ -28,6 +35,9 @@
           &copy; {{ now.Format "2006" }}
           Powered by <a href="https://gohugo.io/" target="_blank">Hugo</a> & <a href="https://github.com/floyd-li/hugo-theme-itheme" target="_blank">iTheme</a>
         </div>
+        <span id="busuanzi_container_site_uv">
+          本站访客数<span id="busuanzi_value_site_uv"></span>人次
+        </span>
       </div>
     </div>
   </div>

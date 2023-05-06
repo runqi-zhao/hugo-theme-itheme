@@ -87,5 +87,9 @@
     script.src = {{ $js.Permalink }};
     document.head.appendChild(script);
   </script>
+
+  <div class="disqus markdown">
+    {{ partial "disqus.html" . }}
+  </div>
 {{ end }}
 
