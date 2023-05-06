@@ -131,7 +131,7 @@ html {
 }
 
 body {
-  font-size: 17px;
+  font-size: 22px;
   line-height: 1.47059;
   font-weight: 400;
   letter-spacing: -.022em;
@@ -1843,7 +1843,7 @@ html.js .tile.large-loaded .image {
 
 @media only screen and (max-width: 734px) {
   .tile.tile-2up-secondary .tile__headline {
-    font-size: 17px;
+    font-size: 22px;
     line-height: 1.23536;
     font-weight: 700;
     letter-spacing: -.022em;
@@ -2876,7 +2876,7 @@ html.js .tile.large-loaded .image {
 
 @media only screen and (max-width: 734px) {
   .tile.tile-3up-secondary .tile__headline {
-    font-size: 17px;
+    font-size: 22px;
     line-height: 1.23536;
     font-weight: 700;
     letter-spacing: -.022em;
@@ -4944,7 +4944,7 @@ html.no-touch.no-reduced-motion .tile.tile-list[data-focus-method=key] .media--v
 
 .view-archive-wrapper {
   margin-top: 32px;
-  font-size: 17px;
+  font-size: 22px;
   line-height: 1.23536;
   font-weight: 500;
   letter-spacing: -.022em;
@@ -4969,7 +4969,7 @@ html.no-touch.no-reduced-motion .tile.tile-list[data-focus-method=key] .media--v
   border-radius: 30px;
   display: inline-block;
   transition: background-color 300ms cubic-bezier(0.4, 0, 0.25, 1) 0ms, border-color 300ms cubic-bezier(0.4, 0, 0.25, 1) 0ms, color 300ms cubic-bezier(0.4, 0, 0.25, 1) 0ms;
-  font-size: 17px;
+  font-size: 22px;
   line-height: 1.23536;
   font-weight: 600;
   letter-spacing: -.022em;
@@ -5003,7 +5003,7 @@ html.no-touch.no-reduced-motion .tile.tile-list[data-focus-method=key] .media--v
 }
 
 .tile.tile-list .tile__headline {
-  font-size: 17px;
+  font-size: 22px;
   line-height: 1.23536;
   font-weight: 700;
   letter-spacing: -.022em;
@@ -5430,7 +5430,7 @@ html.no-touch.no-reduced-motion .tile.tile-list[data-focus-method=key] .media--v
 
 
 .pagebody {
-  font-size: 17px;
+  font-size: 22px;
   line-height: 1.4211;
   font-weight: 400;
   letter-spacing: .012em;
@@ -5860,7 +5860,7 @@ html.no-touch.no-reduced-motion .tile.tile-list[data-focus-method=key] .media--v
 
 @media only screen and (max-width: 1068px) {
   .image-description .icon {
-    font-size: 17px;
+    font-size: 22px;
     line-height: 1.47059;
     font-weight: 400;
     letter-spacing: -.022em;
@@ -6183,7 +6183,7 @@ html.no-touch.no-reduced-motion .tile.tile-list[data-focus-method=key] .media--v
 
 @media only screen and (max-width: 1068px) {
   .datelocation-copy {
-    font-size: 17px;
+    font-size: 22px;
     line-height: 1.47059;
     font-weight: 400;
     letter-spacing: -.022em;
@@ -7324,7 +7324,7 @@ section.archive {
 a.tag_post-content {
   color: #1d1d1f;
   letter-spacing: 0.011em;
-  font-size: 17px;
+  font-size: 22px;
 }
 
 
